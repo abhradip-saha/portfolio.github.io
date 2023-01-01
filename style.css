@@ -440,6 +440,9 @@ span{
 	transform: scale(1.03);
 	transition: 0.3s;
 }
+.ProBox .BoxCaption li a:hover{
+	color: teal;
+}
 
 
 
