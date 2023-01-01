@@ -729,6 +729,9 @@ margin: 5%;
 .ProBoxImg img{
 	width: 100%; height: auto;
 }
+.ProBox .BoxCaption{
+	width: 100%;
+}
 .ProBox .BoxCaption li{
 	width: 100%; height: auto;
 }
