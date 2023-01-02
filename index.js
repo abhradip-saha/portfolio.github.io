@@ -39,10 +39,13 @@ const swiper = new Swiper('.swiper', {
               if(hou==0){
                 hou=12;
               }
-              if(hou>12)
+              if(hou>=12)
               {
-                hou = hou-12;
-                pe="PM";
+                if(hou>12)
+                {
+                  hou = hou-12;
+                }
+                  pe="PM";
               }
               Number.prototype.pad=function(digits){
                 for(var n=this.toString();n.length<digits;n=0+n);
