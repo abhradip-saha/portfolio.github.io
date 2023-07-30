@@ -43,8 +43,9 @@ nav .logo{
 	color:white;
 }
 nav .logo a{
-	text-decoration: none;
+	text-decoration:none;
 	color:#fff;
+	
 }
 nav .links{
 	float:right; 
