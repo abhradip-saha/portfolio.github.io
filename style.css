@@ -39,6 +39,9 @@ nav .logo{
 	font-size:24px; 
 	color:white;
 }
+nav .logo a{
+	text-decoration: none;
+}
 nav .links{
 	float:right; 
 	margin:0; 
