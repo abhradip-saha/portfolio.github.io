@@ -32,6 +32,7 @@ nav{
 	padding:0 5%;
 	height:100px; 
 	background-color:rgb(3, 3, 73);
+	transition: all 0.3s ease;
 }
 nav .logo{
 	float:left;
