@@ -262,7 +262,8 @@ span{
 	text-align: center;
 	color: white;
 	font-variant: small-caps;
-	font-family: 'Josefin Sans', sans-serif;
+	/* font-family: 'Josefin Sans', sans-serif; */
+	font-family: 'Times New Roman', Times, serif;
 	margin-bottom: 4%;
 }
 .AboutSection p{
